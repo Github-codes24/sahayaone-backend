@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Local Environment Variables
+.env
+.env.production
+.env.staging
+
+# Log Files
+logs/
+*.log
+
+# User Uploaded Storage
+storage/uploads/
+storage/temp/
+
+
+# IDE Settings
+.vscode/
+.idea/
+.gemini/
+antigravity-ide/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Documentation
+docs/
+doc/
+scratch/
+    

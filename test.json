@@ -1,0 +1,1020 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "Co-operative Banks list retrieved successfully.",
+    "data": [
+        {
+            "srNo": 1,
+            "id": "6a7ac3ed3f2d3eac46632e4f",
+            "bankId": "6a7ac3ed3f2d3eac46632e4f",
+            "bankName": "SBI Bank",
+            "name": "SBI Bank",
+            "code": "SBIBA538",
+            "logo": "https://s3-noi.aces3.ai/sahayaone/banks/1786430438335-531682800.png",
+            "email": "rajushanker@gmail.com",
+            "alternateEmail": "raju@gmail.com",
+            "mailIdAlternate": "raju@gmail.com",
+            "phoneNumber": "8764675768",
+            "phone": "8764675768",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Raju shanker",
+            "authorizedPerson": "Raju shanker",
+            "bankAccountDetails": {
+                "bankName": "BOI",
+                "accountNumber": "877565867865458687",
+                "ifsc": "IFCE4657667",
+                "accountHolder": "Raju shanker",
+                "accountHolderName": "Raju shanker"
+            },
+            "features": [
+                "HR Management",
+                "Loan Management",
+                "WhatsApp Banking",
+                "E-NACH",
+                "UPI Autopay"
+            ],
+            "cardQuantity": 100,
+            "emiCard": 100,
+            "verificationCredit": 220,
+            "emiCardCredit": 100,
+            "EMICardCredit": 100,
+            "totalEmiCards": 100,
+            "availableEmiCards": 100,
+            "totalVerificationCredits": 220,
+            "availableVerificationCredits": 220,
+            "paymentMethod": "CASH",
+            "paymentStatus": "PENDING",
+            "totalAmountPaid": 21400,
+            "cardRate": 10000,
+            "verificationCreditRate": 11000,
+            "cardAmount": 1000000,
+            "verificationCreditAmount": 2420000,
+            "subTotalAmount": 21000,
+            "cgst": 200,
+            "sgst": 200,
+            "pricing": {
+                "emiCardQuantity": 100,
+                "emiQty": 100,
+                "verificationCreditQuantity": 220,
+                "verQty": 220,
+                "emiCardPrice": 10000,
+                "formattedEmiCardPrice": "₹10,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 21000,
+                "formattedTotalAmount": "₹21,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 21400,
+                "formattedTotalPayableAmount": "₹21,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786430438335-531682800.png"
+                },
+                "registrationCertificate": null,
+                "companyPan": null,
+                "boardResolution": null,
+                "gstDeclaration": null,
+                "directorKyc": null,
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786430441247-380096982.png"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "PENDING",
+            "createdAt": "2026-08-11T06:40:45.483Z",
+            "updatedAt": "2026-08-11T06:40:45.483Z"
+        },
+        {
+            "srNo": 2,
+            "id": "6a7aac985c4762084e71a7a3",
+            "bankId": "6a7aac985c4762084e71a7a3",
+            "bankName": "test bank",
+            "name": "test bank",
+            "code": "TESTB191",
+            "logo": "https://s3-noi.aces3.ai/sahayaone/banks/1786424465056-462996974.png",
+            "email": "test111@gmail.com",
+            "alternateEmail": "test111@gmail.com",
+            "mailIdAlternate": "test111@gmail.com",
+            "phoneNumber": "7785743536",
+            "phone": "7785743536",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Test Bank",
+            "authorizedPerson": "Test Bank",
+            "bankAccountDetails": {
+                "bankName": "Test Bank",
+                "accountNumber": "45747473626264365754",
+                "ifsc": "IFCE4657667",
+                "accountHolder": "Test Name",
+                "accountHolderName": "Test Name"
+            },
+            "features": [
+                "HR Management",
+                "Loan Management",
+                "Inventory Management"
+            ],
+            "cardQuantity": 110,
+            "emiCard": 110,
+            "verificationCredit": 220,
+            "emiCardCredit": 110,
+            "EMICardCredit": 110,
+            "totalEmiCards": 110,
+            "availableEmiCards": 110,
+            "totalVerificationCredits": 220,
+            "availableVerificationCredits": 220,
+            "paymentMethod": "CASH",
+            "paymentStatus": "PENDING",
+            "totalAmountPaid": 22400,
+            "cardRate": 11000,
+            "verificationCreditRate": 11000,
+            "cardAmount": 1210000,
+            "verificationCreditAmount": 2420000,
+            "subTotalAmount": 22000,
+            "cgst": 200,
+            "sgst": 200,
+            "pricing": {
+                "emiCardQuantity": 110,
+                "emiQty": 110,
+                "verificationCreditQuantity": 220,
+                "verQty": 220,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786424465056-462996974.png"
+                },
+                "registrationCertificate": {
+                    "filename": "reg_cert_2023.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786424468095-380585677.png"
+                },
+                "companyPan": null,
+                "boardResolution": null,
+                "gstDeclaration": null,
+                "directorKyc": null,
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786424468635-397177153.png"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "PENDING",
+            "createdAt": "2026-08-11T05:01:12.536Z",
+            "updatedAt": "2026-08-11T05:01:12.536Z"
+        },
+        {
+            "srNo": 3,
+            "id": "6a799fb6f5a82ba6438e66d4",
+            "bankId": "6a799fb6f5a82ba6438e66d4",
+            "bankName": "AS bank",
+            "name": "AS bank",
+            "code": "ASBAN330",
+            "logo": "https://s3-noi.aces3.ai/sahayaone/banks/1786355634066-451561419.jpg",
+            "email": "test@gmail.com",
+            "alternateEmail": "ayushchouhan417@gmail.com",
+            "mailIdAlternate": "ayushchouhan417@gmail.com",
+            "phoneNumber": "1010101010",
+            "phone": "1010101010",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "AS",
+            "authorizedPerson": "AS",
+            "bankAccountDetails": {
+                "bankName": "AS bank",
+                "accountNumber": "354318431661",
+                "ifsc": "SBIN0000012",
+                "accountHolder": "AS",
+                "accountHolderName": "AS"
+            },
+            "features": [
+                "RECEIPT_MANAGEMENT",
+                "VERIFICATION_SERVICE",
+                "UPI_AUTOPAY",
+                "E_NACH"
+            ],
+            "cardQuantity": 110,
+            "emiCard": 110,
+            "verificationCredit": 1080,
+            "emiCardCredit": 110,
+            "EMICardCredit": 110,
+            "totalEmiCards": 110,
+            "availableEmiCards": 110,
+            "totalVerificationCredits": 1080,
+            "availableVerificationCredits": 1080,
+            "paymentMethod": "CASH",
+            "paymentStatus": "SUCCESS",
+            "totalAmountPaid": 22400,
+            "cardRate": 500,
+            "verificationCreditRate": 50,
+            "cardAmount": 55000,
+            "verificationCreditAmount": 54000,
+            "subTotalAmount": 109000,
+            "cgst": 0,
+            "sgst": 0,
+            "pricing": {
+                "emiCardQuantity": 110,
+                "emiQty": 110,
+                "verificationCreditQuantity": 1080,
+                "verQty": 1080,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786355634066-451561419.jpg"
+                },
+                "registrationCertificate": {
+                    "filename": "reg_cert_2023.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a799fb6f5a82ba6438e66d4/documents/1786357409609-945300432.png"
+                },
+                "companyPan": {
+                    "filename": "pan_card.jpg",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a799fb6f5a82ba6438e66d4/documents/1786357412732-143604118.png"
+                },
+                "boardResolution": {
+                    "filename": "board_res.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a799fb6f5a82ba6438e66d4/documents/1786357413677-70764634.png"
+                },
+                "gstDeclaration": {
+                    "filename": "gst_doc.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a799fb6f5a82ba6438e66d4/documents/1786357414487-330117510.png"
+                },
+                "directorKyc": {
+                    "filename": "dir_kyc_aadhar.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a799fb6f5a82ba6438e66d4/documents/1786357415379-340603837.png"
+                },
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a799fb6f5a82ba6438e66d4/documents/1786357416084-291364704.png"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "APPROVED",
+            "createdAt": "2026-08-10T09:53:58.414Z",
+            "updatedAt": "2026-08-10T10:26:13.219Z"
+        },
+        {
+            "srNo": 4,
+            "id": "6a7999b7c67d5c864897cccf",
+            "bankId": "6a7999b7c67d5c864897cccf",
+            "bankName": "Jio bank",
+            "name": "Jio bank",
+            "code": "JIOBA764",
+            "logo": "https://s3-noi.aces3.ai/sahayaone/banks/logos/1786354100234-360072209.png",
+            "email": "jio@test.com",
+            "alternateEmail": "",
+            "mailIdAlternate": "",
+            "phoneNumber": "6666666666",
+            "phone": "6666666666",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Jio",
+            "authorizedPerson": "Jio",
+            "bankAccountDetails": {
+                "bankName": "Jio",
+                "accountNumber": "88888522255365536",
+                "ifsc": "SBIN0000012",
+                "accountHolder": "Jio",
+                "accountHolderName": "Jio"
+            },
+            "features": [
+                "HR_MANAGEMENT",
+                "LOAN_MANAGEMENT",
+                "INVENTORY_MANAGEMENT",
+                "RECEIPT_MANAGEMENT",
+                "VERIFICATION_SERVICE",
+                "UPI_AUTOPAY",
+                "E_NACH",
+                "WHATSAPP_BANKING",
+                "BIOMETRIC_INTEGRATION",
+                "PAPERLESS_E_KYC"
+            ],
+            "cardQuantity": 100,
+            "emiCard": 100,
+            "verificationCredit": 200,
+            "emiCardCredit": 100,
+            "EMICardCredit": 100,
+            "totalEmiCards": 100,
+            "availableEmiCards": 100,
+            "totalVerificationCredits": 200,
+            "availableVerificationCredits": 200,
+            "paymentMethod": "CASH",
+            "paymentStatus": "SUCCESS",
+            "totalAmountPaid": 60000,
+            "cardRate": 500,
+            "verificationCreditRate": 50,
+            "cardAmount": 50000,
+            "verificationCreditAmount": 10000,
+            "subTotalAmount": 60000,
+            "cgst": 0,
+            "sgst": 0,
+            "pricing": {
+                "emiCardQuantity": 110,
+                "emiQty": 110,
+                "verificationCreditQuantity": 220,
+                "verQty": 220,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/logos/1786354100234-360072209.png"
+                },
+                "registrationCertificate": {
+                    "filename": "reg_cert_2023.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7999b7c67d5c864897cccf/documents/1786355037035-690697215.png"
+                },
+                "companyPan": {
+                    "filename": "pan_card.jpg",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7999b7c67d5c864897cccf/documents/1786355040176-403583737.png"
+                },
+                "boardResolution": {
+                    "filename": "board_res.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7999b7c67d5c864897cccf/documents/1786355040801-25721171.png"
+                },
+                "gstDeclaration": {
+                    "filename": "gst_doc.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7999b7c67d5c864897cccf/documents/1786355041428-875821651.png"
+                },
+                "directorKyc": {
+                    "filename": "dir_kyc_aadhar.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7999b7c67d5c864897cccf/documents/1786355041960-599945128.png"
+                },
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7999b7c67d5c864897cccf/documents/1786355042656-787821256.png"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "ON_VERIFICATION",
+            "createdAt": "2026-08-10T09:28:23.006Z",
+            "updatedAt": "2026-08-10T09:45:41.047Z"
+        },
+        {
+            "srNo": 5,
+            "id": "6a7996fcc67d5c864897ca4f",
+            "bankId": "6a7996fcc67d5c864897ca4f",
+            "bankName": "ABC Bank",
+            "name": "ABC Bank",
+            "code": "ABCBA896",
+            "logo": "https://s3-noi.aces3.ai/sahayaone/banks/1786353400995-490328674.png",
+            "email": "abcd@gmail.com",
+            "alternateEmail": "abcde@gmail.com",
+            "mailIdAlternate": "abcde@gmail.com",
+            "phoneNumber": "8976764353",
+            "phone": "8976764353",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Abc xyz",
+            "authorizedPerson": "Abc xyz",
+            "bankAccountDetails": {
+                "bankName": "XYZ bank",
+                "accountNumber": "87755476878978765",
+                "ifsc": "IFCE4657667",
+                "accountHolder": "ABC xyz",
+                "accountHolderName": "ABC xyz"
+            },
+            "features": [
+                "HR Management",
+                "Loan Management"
+            ],
+            "cardQuantity": 801,
+            "emiCard": 801,
+            "verificationCredit": 181,
+            "emiCardCredit": 801,
+            "EMICardCredit": 801,
+            "totalEmiCards": 801,
+            "availableEmiCards": 801,
+            "totalVerificationCredits": 181,
+            "availableVerificationCredits": 181,
+            "paymentMethod": "CASH",
+            "paymentStatus": "SUCCESS",
+            "totalAmountPaid": 19550,
+            "cardRate": 10100,
+            "verificationCreditRate": 9050,
+            "cardAmount": 1020100,
+            "verificationCreditAmount": 1638050,
+            "subTotalAmount": 19150,
+            "cgst": 200,
+            "sgst": 200,
+            "pricing": {
+                "emiCardQuantity": 801,
+                "emiQty": 801,
+                "verificationCreditQuantity": 181,
+                "verQty": 181,
+                "emiCardPrice": 10100,
+                "formattedEmiCardPrice": "₹10,100",
+                "verificationCreditPrice": 9050,
+                "formattedVerificationCreditPrice": "₹9,050",
+                "totalAmount": 19150,
+                "formattedTotalAmount": "₹19,150",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 19550,
+                "formattedTotalPayableAmount": "₹19,550"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786353400995-490328674.png"
+                },
+                "registrationCertificate": null,
+                "companyPan": null,
+                "boardResolution": null,
+                "gstDeclaration": null,
+                "directorKyc": null,
+                "cancelledCheque": null
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "APPROVED",
+            "createdAt": "2026-08-10T09:16:44.968Z",
+            "updatedAt": "2026-08-10T09:20:54.234Z"
+        },
+        {
+            "srNo": 6,
+            "id": "6a76f8932863cce5d5948871",
+            "bankId": "6a76f8932863cce5d5948871",
+            "bankName": "uuuu",
+            "name": "uuuu",
+            "code": "UUUU445",
+            "logo": "https://s3-noi.aces3.ai/sahayaone/banks/1786181775706-934388530.png",
+            "email": "tttt@gmail.com",
+            "alternateEmail": "yyyy@gmail.com",
+            "mailIdAlternate": "yyyy@gmail.com",
+            "phoneNumber": "8756454375",
+            "phone": "8756454375",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "hhh",
+            "authorizedPerson": "hhh",
+            "bankAccountDetails": {
+                "bankName": "BOI",
+                "accountNumber": "875443658673456",
+                "ifsc": "IFCE4657667",
+                "accountHolder": "tujal samne",
+                "accountHolderName": "tujal samne"
+            },
+            "features": [
+                "HR Management",
+                "Loan Management",
+                "Inventory Management",
+                "WhatsApp Banking",
+                "E-NACH",
+                "UPI Autopay"
+            ],
+            "cardQuantity": 110,
+            "emiCard": 110,
+            "verificationCredit": 220,
+            "emiCardCredit": 110,
+            "EMICardCredit": 110,
+            "totalEmiCards": 110,
+            "availableEmiCards": 110,
+            "totalVerificationCredits": 220,
+            "availableVerificationCredits": 220,
+            "paymentMethod": "CASH",
+            "paymentStatus": "SUCCESS",
+            "totalAmountPaid": 22400,
+            "cardRate": 11000,
+            "verificationCreditRate": 11000,
+            "cardAmount": 1210000,
+            "verificationCreditAmount": 2420000,
+            "subTotalAmount": 22000,
+            "cgst": 200,
+            "sgst": 200,
+            "pricing": {
+                "emiCardQuantity": 110,
+                "emiQty": 110,
+                "verificationCreditQuantity": 220,
+                "verQty": 220,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786181775706-934388530.png"
+                },
+                "registrationCertificate": null,
+                "companyPan": null,
+                "boardResolution": null,
+                "gstDeclaration": null,
+                "directorKyc": null,
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/1786182150035-22846762.png"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "ACTIVE",
+            "createdAt": "2026-08-08T09:36:19.716Z",
+            "updatedAt": "2026-08-08T09:42:32.930Z"
+        },
+        {
+            "srNo": 7,
+            "id": "6a7576ebedee51f98105b8f4",
+            "bankId": "6a7576ebedee51f98105b8f4",
+            "bankName": "Perfect bank",
+            "name": "Perfect bank",
+            "code": "PERFE961",
+            "logo": "https://s3-noi.aces3.ai/sahayaone/banks/logos/1786083050008-595153132.png",
+            "email": "perfect@test.com",
+            "alternateEmail": "",
+            "mailIdAlternate": "",
+            "phoneNumber": "9767348497",
+            "phone": "9767348497",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Perfect",
+            "authorizedPerson": "Perfect",
+            "bankAccountDetails": {
+                "bankName": "Perfect bank",
+                "accountNumber": "976434846468484",
+                "ifsc": "SBIN0000012",
+                "accountHolder": "Perfect",
+                "accountHolderName": "Perfect"
+            },
+            "features": [
+                "HR_MANAGEMENT",
+                "LOAN_MANAGEMENT",
+                "E_NACH",
+                "WHATSAPP_BANKING",
+                "BIOMETRIC_INTEGRATION",
+                "PAPERLESS_E_KYC"
+            ],
+            "cardQuantity": 500,
+            "emiCard": 500,
+            "verificationCredit": 200,
+            "emiCardCredit": 500,
+            "EMICardCredit": 500,
+            "totalEmiCards": 500,
+            "availableEmiCards": 500,
+            "totalVerificationCredits": 200,
+            "availableVerificationCredits": 200,
+            "paymentMethod": "CASH",
+            "paymentStatus": "SUCCESS",
+            "totalAmountPaid": 306800,
+            "cardRate": 500,
+            "verificationCreditRate": 50,
+            "cardAmount": 250000,
+            "verificationCreditAmount": 10000,
+            "subTotalAmount": 260000,
+            "cgst": 23400,
+            "sgst": 23400,
+            "pricing": {
+                "emiCardQuantity": 110,
+                "emiQty": 110,
+                "verificationCreditQuantity": 220,
+                "verQty": 220,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/logos/1786083050008-595153132.png"
+                },
+                "registrationCertificate": {
+                    "filename": "reg_cert_2023.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7576ebedee51f98105b8f4/documents/1786083082706-835213151.png"
+                },
+                "companyPan": {
+                    "filename": "pan_card.jpg",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7576ebedee51f98105b8f4/documents/1786083084239-468109873.png"
+                },
+                "boardResolution": {
+                    "filename": "board_res.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7576ebedee51f98105b8f4/documents/1786083084932-775278138.png"
+                },
+                "gstDeclaration": {
+                    "filename": "gst_doc.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7576ebedee51f98105b8f4/documents/1786083085410-20974482.png"
+                },
+                "directorKyc": {
+                    "filename": "dir_kyc_aadhar.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7576ebedee51f98105b8f4/documents/1786083085820-63878158.png"
+                },
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://s3-noi.aces3.ai/sahayaone/banks/6a7576ebedee51f98105b8f4/documents/1786083086202-334433705.png"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "ON_VERIFICATION",
+            "createdAt": "2026-08-07T06:10:51.569Z",
+            "updatedAt": "2026-08-07T06:13:21.073Z"
+        },
+        {
+            "srNo": 8,
+            "id": "6a72c661485fbe2ece45b6eb",
+            "bankId": "6a72c661485fbe2ece45b6eb",
+            "bankName": "Tia bank",
+            "name": "Tia bank",
+            "code": "TIABA411",
+            "logo": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906785/sahayaone/banks/logos/y8yj5danzd8vcak0d10k.jpg",
+            "email": "tia@test.com",
+            "alternateEmail": "",
+            "mailIdAlternate": "",
+            "phoneNumber": "9968866553",
+            "phone": "9968866553",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Tia",
+            "authorizedPerson": "Tia",
+            "bankAccountDetails": {
+                "bankName": "Tia bank",
+                "accountNumber": "96855655655",
+                "ifsc": "SBIN0000012",
+                "accountHolder": "Swayam",
+                "accountHolderName": "Swayam"
+            },
+            "features": [
+                "HR_MANAGEMENT",
+                "LOAN_MANAGEMENT",
+                "INVENTORY_MANAGEMENT",
+                "RECEIPT_MANAGEMENT",
+                "VERIFICATION_SERVICE",
+                "UPI_AUTOPAY",
+                "E_NACH",
+                "WHATSAPP_BANKING"
+            ],
+            "cardQuantity": 5200,
+            "emiCard": 5200,
+            "verificationCredit": 700,
+            "emiCardCredit": 5200,
+            "EMICardCredit": 5200,
+            "totalEmiCards": 5200,
+            "availableEmiCards": 5200,
+            "totalVerificationCredits": 700,
+            "availableVerificationCredits": 700,
+            "paymentMethod": "CASH",
+            "paymentStatus": "SUCCESS",
+            "totalAmountPaid": 70800,
+            "cardRate": 500,
+            "verificationCreditRate": 50,
+            "cardAmount": 50000,
+            "verificationCreditAmount": 10000,
+            "subTotalAmount": 60000,
+            "cgst": 5400,
+            "sgst": 5400,
+            "pricing": {
+                "emiCardQuantity": 5210,
+                "emiQty": 5210,
+                "verificationCreditQuantity": 720,
+                "verQty": 720,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906785/sahayaone/banks/logos/y8yj5danzd8vcak0d10k.jpg"
+                },
+                "registrationCertificate": {
+                    "filename": "reg_cert_2023.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906809/sahayaone/banks/6a72c661485fbe2ece45b6eb/documents/g3zmudsjnuzmd99c2al0.jpg"
+                },
+                "companyPan": {
+                    "filename": "pan_card.jpg",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906809/sahayaone/banks/6a72c661485fbe2ece45b6eb/documents/cfanzq2ngqoy9cety78s.jpg"
+                },
+                "boardResolution": {
+                    "filename": "board_res.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906810/sahayaone/banks/6a72c661485fbe2ece45b6eb/documents/rnedwbri3gjzv1xjxkrh.jpg"
+                },
+                "gstDeclaration": {
+                    "filename": "gst_doc.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906811/sahayaone/banks/6a72c661485fbe2ece45b6eb/documents/n2wihq58sa6izacjovat.jpg"
+                },
+                "directorKyc": {
+                    "filename": "dir_kyc_aadhar.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906811/sahayaone/banks/6a72c661485fbe2ece45b6eb/documents/hklkywkprxcmx8nog33b.jpg"
+                },
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785906812/sahayaone/banks/6a72c661485fbe2ece45b6eb/documents/zbv0pg4ad9mbqclpe4eq.jpg"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "APPROVED",
+            "createdAt": "2026-08-05T05:13:05.539Z",
+            "updatedAt": "2026-08-05T07:18:07.798Z"
+        },
+        {
+            "srNo": 9,
+            "id": "6a71ee4d1fdbfa57928fc140",
+            "bankId": "6a71ee4d1fdbfa57928fc140",
+            "bankName": "Raja bank",
+            "name": "Raja bank",
+            "code": "RAJAB256",
+            "logo": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785851469/sahayaone/banks/logos/cc8smeju1tbzl9wy26mi.jpg",
+            "email": "raj@test.com",
+            "alternateEmail": "",
+            "mailIdAlternate": "",
+            "phoneNumber": "9786464848",
+            "phone": "9786464848",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Raj",
+            "authorizedPerson": "Raj",
+            "bankAccountDetails": {
+                "bankName": "Raja bank",
+                "accountNumber": "8885555622",
+                "ifsc": "SBIN0000012",
+                "accountHolder": "Swayam",
+                "accountHolderName": "Swayam"
+            },
+            "features": [
+                "HR_MANAGEMENT",
+                "LOAN_MANAGEMENT"
+            ],
+            "cardQuantity": 1000,
+            "emiCard": 1000,
+            "verificationCredit": 200,
+            "emiCardCredit": 1000,
+            "EMICardCredit": 1000,
+            "totalEmiCards": 1000,
+            "availableEmiCards": 1000,
+            "totalVerificationCredits": 200,
+            "availableVerificationCredits": 200,
+            "paymentMethod": "CASH",
+            "paymentStatus": "SUCCESS",
+            "totalAmountPaid": 601800,
+            "cardRate": 500,
+            "verificationCreditRate": 50,
+            "cardAmount": 500000,
+            "verificationCreditAmount": 10000,
+            "subTotalAmount": 510000,
+            "cgst": 45900,
+            "sgst": 45900,
+            "pricing": {
+                "emiCardQuantity": 110,
+                "emiQty": 110,
+                "verificationCreditQuantity": 220,
+                "verQty": 220,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785851469/sahayaone/banks/logos/cc8smeju1tbzl9wy26mi.jpg"
+                },
+                "registrationCertificate": {
+                    "filename": "reg_cert_2023.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785911137/sahayaone/banks/6a71ee4d1fdbfa57928fc140/documents/hgcqqdizscxtaflkkvc8.jpg"
+                },
+                "companyPan": {
+                    "filename": "pan_card.jpg",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785911138/sahayaone/banks/6a71ee4d1fdbfa57928fc140/documents/douq5ub43ys9hvzvyeh4.jpg"
+                },
+                "boardResolution": {
+                    "filename": "board_res.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785911138/sahayaone/banks/6a71ee4d1fdbfa57928fc140/documents/elw2h2p1qicijfjgn3zc.jpg"
+                },
+                "gstDeclaration": {
+                    "filename": "gst_doc.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785911139/sahayaone/banks/6a71ee4d1fdbfa57928fc140/documents/kuoocpjgeds5zgbdi0mt.jpg"
+                },
+                "directorKyc": {
+                    "filename": "dir_kyc_aadhar.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785911140/sahayaone/banks/6a71ee4d1fdbfa57928fc140/documents/uuc4h1bwxflv3scgvrhl.jpg"
+                },
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785911141/sahayaone/banks/6a71ee4d1fdbfa57928fc140/documents/hy3nqwxngimpfl4aa18n.jpg"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "REJECTED",
+            "createdAt": "2026-08-04T13:51:09.793Z",
+            "updatedAt": "2026-08-06T13:34:15.498Z"
+        },
+        {
+            "srNo": 10,
+            "id": "6a71da720a3c36b3d36f1aa4",
+            "bankId": "6a71da720a3c36b3d36f1aa4",
+            "bankName": "Hash bank",
+            "name": "Hash bank",
+            "code": "HASHB877",
+            "logo": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846385/sahayaone/banks/logos/x5jkewsm2y5widsaqtbq.jpg",
+            "email": "harsh@test.com",
+            "alternateEmail": "",
+            "mailIdAlternate": "",
+            "phoneNumber": "9673348464",
+            "phone": "9673348464",
+            "credit": 0,
+            "formattedCredit": "₹0",
+            "ubo": "Harsh",
+            "authorizedPerson": "Harsh",
+            "bankAccountDetails": {
+                "bankName": null,
+                "accountNumber": null,
+                "ifsc": null,
+                "accountHolder": null,
+                "accountHolderName": null
+            },
+            "features": [],
+            "cardQuantity": 0,
+            "emiCard": 0,
+            "verificationCredit": 0,
+            "emiCardCredit": 0,
+            "EMICardCredit": 0,
+            "totalEmiCards": 0,
+            "availableEmiCards": 0,
+            "totalVerificationCredits": 0,
+            "availableVerificationCredits": 0,
+            "paymentMethod": null,
+            "paymentStatus": null,
+            "totalAmountPaid": 0,
+            "cardRate": 0,
+            "verificationCreditRate": 0,
+            "cardAmount": 0,
+            "verificationCreditAmount": 0,
+            "subTotalAmount": 0,
+            "cgst": 0,
+            "sgst": 0,
+            "pricing": {
+                "emiCardQuantity": 110,
+                "emiQty": 110,
+                "verificationCreditQuantity": 220,
+                "verQty": 220,
+                "emiCardPrice": 11000,
+                "formattedEmiCardPrice": "₹11,000",
+                "verificationCreditPrice": 11000,
+                "formattedVerificationCreditPrice": "₹11,000",
+                "totalAmount": 22000,
+                "formattedTotalAmount": "₹22,000",
+                "cgst": 200,
+                "formattedCgst": "+₹200",
+                "sgst": 200,
+                "formattedSgst": "+₹200",
+                "totalPayableAmount": 22400,
+                "formattedTotalPayableAmount": "₹22,400"
+            },
+            "documents": {
+                "bankLogo": {
+                    "filename": "logo.png",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846385/sahayaone/banks/logos/x5jkewsm2y5widsaqtbq.jpg"
+                },
+                "registrationCertificate": {
+                    "filename": "reg_cert_2023.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846407/sahayaone/banks/6a71da720a3c36b3d36f1aa4/documents/dbjtnjleqtwrebdfgo0j.jpg"
+                },
+                "companyPan": {
+                    "filename": "pan_card.jpg",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846408/sahayaone/banks/6a71da720a3c36b3d36f1aa4/documents/bs0ldmfjfdqxdmq34pdz.jpg"
+                },
+                "boardResolution": {
+                    "filename": "board_res.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846409/sahayaone/banks/6a71da720a3c36b3d36f1aa4/documents/fbqfap6qpi8dheqfru64.jpg"
+                },
+                "gstDeclaration": {
+                    "filename": "gst_doc.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846409/sahayaone/banks/6a71da720a3c36b3d36f1aa4/documents/h5yfmmxi7hmigfpazve4.jpg"
+                },
+                "directorKyc": {
+                    "filename": "dir_kyc_aadhar.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846410/sahayaone/banks/6a71da720a3c36b3d36f1aa4/documents/pnotjgjaqilubpcckqjo.jpg"
+                },
+                "cancelledCheque": {
+                    "filename": "cancelled_cheque.pdf",
+                    "url": "https://res.cloudinary.com/lpzhbhgy/image/upload/v1785846411/sahayaone/banks/6a71da720a3c36b3d36f1aa4/documents/iammfhqypas0bwucxpgc.jpg"
+                }
+            },
+            "remarks": null,
+            "rejectionRemarks": null,
+            "rejectionReason": null,
+            "rejectedAt": null,
+            "rejectedBy": null,
+            "status": "PENDING",
+            "createdAt": "2026-08-04T12:26:26.294Z",
+            "updatedAt": "2026-08-04T12:26:52.103Z"
+        }
+    ],
+    "meta": {
+        "totalRecords": 21,
+        "limit": 10,
+        "page": 1,
+        "totalPages": 3,
+        "hasNextPage": true,
+        "hasPrevPage": false
+    }
+}

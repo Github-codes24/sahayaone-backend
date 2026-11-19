@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+
+# Environment files
+.env
+.env.*
+
+# Git
+.git
+.github
+
+# Editor/IDE files
+.idea
+.vscode
