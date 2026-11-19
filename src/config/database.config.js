@@ -7,7 +7,6 @@ export const databaseConfig = Object.freeze({
     minPoolSize: parseInt(process.env.MONGO_MIN_POOL_SIZE || '10', 10),
     autoIndex: process.env.MONGO_AUTO_INDEX === 'true',
     socketTimeoutMS: 45000,
-    serverSelectionTimeoutMS: 5000,
-    family: 4
+    serverSelectionTimeoutMS: 5000
   }
 });

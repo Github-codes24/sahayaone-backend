@@ -1,6 +1,12 @@
+import dns from "dns";
 import mongoose from "mongoose";
 import { databaseConfig } from "../config/database.config.js";
 import { logger } from "../utils/logger.util.js";
+
+// Ensure reliable SRV resolution across environments
+try {
+  dns.setServers(["8.8.8.8", "1.1.1.1"]);
+} catch (_) {}
 
 mongoose.connection.on("connected", () => {
   logger.info("DATABASE CONNECTED: Connection pool successfully established.");
