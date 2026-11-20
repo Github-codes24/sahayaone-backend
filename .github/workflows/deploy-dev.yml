@@ -3,7 +3,7 @@ name: Deploy Development Backend
 on:
   push:
     branches:
-      - development
+      - main
 
 jobs:
   deploy:
@@ -14,6 +14,12 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
       # Optional CI step: Validate syntax / check dependencies
       - name: Verify package installation
         run: |
@@ -23,8 +29,8 @@ jobs:
       - name: Deploy to VPS (Dev Environment)
         uses: appleboy/ssh-action@v1.2.4
         with:
-          host: ${{ vars.VPS_HOST }}
-          username: ${{ vars.VPS_USER }}
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
           key: ${{ secrets.VPS_SSH_KEY }}
           port: 22
           script: |
@@ -32,15 +38,17 @@ jobs:
             echo "Starting deployment on Dev Server..."
             
             # 1. Navigate to project directory
-            cd /home/ubuntu/apps/dev/sahayaone-backend
+            cd /root/dev/sahayaone/backend/sahayaone-backend
             
             # 2. pull latest changes from dev branch
-            git pull origin development
+            git pull origin main
             
             # 3. Build and restart development docker containers
             docker compose -p sahayaone-dev -f docker-compose.dev.yml up -d --build
             
             # 4. Check container status
-            docker compose -f docker-compose.dev.yml ps
+            docker compose -p sahayaone-dev -f docker-compose.dev.yml ps
             
+            # 5. cupunused images clean
+            docker image prune -f
             echo "Development Server Deployed Successfully!"

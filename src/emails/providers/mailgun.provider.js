@@ -4,7 +4,7 @@ export class MailgunProvider {
   constructor(config) {
     this.config = config;
   }
-
+//asca
   async send(options) {
     logger.info(`EMAIL CLIENT: Mailgun API dispatch triggered (Simulated)`, {
       to: options.to,

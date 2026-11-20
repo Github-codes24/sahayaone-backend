@@ -7,6 +7,8 @@ const defaultAllowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
   'http://localhost:5000',
+  'http://localhost:5001',
+  'http://localhost:5002',
   'https://sahayaone-superadmin-panel.netlify.app',
   'https://sahayaone-cooperative-bank-panel.netlify.app',
   'https://sahayaoneexecutive.expo.app',
