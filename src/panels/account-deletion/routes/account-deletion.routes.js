@@ -4,7 +4,7 @@ import { validateRequest } from '../../../middlewares/request-validator.middlewa
 import { requestOtpSchema, verifyAndDeleteSchema } from '../validators/account-deletion.validator.js';
 
 const router = Router();
-
+//asd
 /**
  * @route POST /api/v1/account-deletion/request-otp (or /api/v1/deletion/request-otp)
  * @desc Public unauthenticated endpoint to request account deletion OTP for Customer, Loan Executive, or Bank Onboarding
