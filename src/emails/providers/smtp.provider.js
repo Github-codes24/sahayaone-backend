@@ -7,7 +7,7 @@ export class SmtpProvider {
     this.transporter = null;
     this.init();
   }
-
+//asa
   init() {
     this.transporter = nodemailer.createTransport({
       host: this.config.smtp.host,
